@@ -1,7 +1,7 @@
 ## 介绍
 一个AI聊天助手,可以辅助解卦,塔罗占卜,八字命理
 ## 后端
-[lyts-backend](https://github.com/Let-Fate/lyts-backend)
+[lyts-backend](https://github.com/let-fate/lyts-backend)
 ## 部署
 1. 请先安装NodeJS 20+
 2. 确保lyts-backend已经运行
