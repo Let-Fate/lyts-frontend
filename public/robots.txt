@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ai.diviner.fun
+
+# Sitemaps
+Sitemap: https://ai.diviner.fun/sitemap.xml
