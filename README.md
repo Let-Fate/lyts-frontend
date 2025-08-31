@@ -1,5 +1,7 @@
 ## 介绍
 一个AI聊天助手,可以辅助解卦,塔罗占卜,八字命理
+## 注意
+本项目为早期实验产品 存在许多未知BUG
 ## 后端
 [lyts-backend](https://github.com/let-fate/lyts-backend)
 ## 部署
